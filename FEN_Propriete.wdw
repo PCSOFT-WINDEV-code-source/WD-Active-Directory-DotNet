@@ -1,0 +1,461 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_Propriété
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_Propriété
+ identifier : 0x24a4ede733dc4b89
+ internal_properties : CAAAAAgAAADpmO6/VmeTod2PKr8pn4pkykpgK5Vby/MykTKHHZNt15c39LrGKcHprTPMch4E8OImhnHdxf7IHH1mqFuwGKurKsPwIwTX3ZtMkkJjMhNArfwTRUAMx9WGzsHOuzkAge68V0cfLSlnPOLoddoJHJGYk59a4e8VeFQ9/j/D5SDcBn/+OC3W58iBnQhwSRBTurmTbMy4wwzSS3WQwSVY+o6rFC24pg/wl6cQWQj0jdQNQok1NTMiwUJ28t59MnGsXCGAambvgRJ7RdcIygnapn9KyFEKo3WX3V4fpGMarthSlCVl6Ws6GtxfSNLxKlksrP1b4SK8xxPZiRG4PHspKWvBJv/Xw/Fcsuw7N06jVlOemnZwyUYMSnNxRZzls8nqSpbqEO2dhqiQprQmu/gKvwtD5xXnUXpq8DA3Mym/j46gBvEGGurqYhTGXXYqY03vq+pmE3emlGvGiB9Rks9POjbTB/1KGy8b4Kq8/UFH2u0Ba0rR0lkU5l/b/i01GKoHQIeGqvPtjyf+WBkOEaElIhaDshkop6t9Ve18Bj5952Gdb26Bk7XUpI8LVi+n1NWXtkvQQtTnxDSfqdoS5ptZ69aDUqXqFu6xRlikzjpfkVjPfVCteo6a5p+pWSBG2xlqP+2g36FJXUe81/faXrHXMgq6CuZHsGKcDZaRKjVNTnRK7Eg6YDFYkcKzkAbmadnDECgE2fK+v+8rIju3KgllCwvNAKON576OdjPsniR1AzGIsiWBFv4PTXPGPMWh3VwGa6uyleV/rGcpIgMScZELSwjMjRHo7dzjzmKOJ41nAkW0r5sJ7Is=
+ properties :
+  width : 347
+  height : 378
+  widthClient : 345
+  heightClient : 346
+ controls :
+  -
+    name : LIB_Name
+    identifier : 0x24a4ede733df4b99
+    internal_properties : CAAAAAgAAABPu8aiChc3vf+yStNa+4FbOlhV3NJ6HoEe+2W8yF6kJvxkAKGf4JizYjGGbz8If7pWD5VyBMWQKDqF/tBmOuYeP2EB4ncxkS4P115NpjOBscTPZhHtnSdyjAOeQrFsM0ztL8My/akAusOxjL9uPCHT8MyuPVMts6qW+pAJ8uat06aEV7bwvmY2uLOyIIgf4x8OEkuyB0gudlj71PMGlw2T95ljcGhrJinhn0h2ztwhgAOvMSrGS4yPWOaslWJRVdkPN0GUsTAjZavc8Q6gKUtil6XGTvr/N37dlZWJ9fAWngclx9+vsjNghrJ+F16I/OfoTITAqeAAWFRffA5kYqH5SULYd2t4ylUsRkIADfzYE0BX69G4RiodHPjQ05E1ip7Rngv71gU2E1FmwT2qCyOv9+CzcYBiBWMgy+2xVYYrrez8q8Kv9VHD1R4m5he0MlZb6iLpqKzuRQQYEqsrfOx0gk1ITjg2itZ5yyOPEqwxPK2omXM7akh/spURACszME/XsHsLyHBzvFVHzGv25V/EjWsUgZv7TA==
+    properties :
+     x : 9
+     y : 6
+     width : 130
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : LIB_DisName
+    identifier : 0x24a4ede733e04b99
+    internal_properties : CAAAAAgAAADHA4SHTlo8nM43f9hBPPaMy3mGb/mFN9zxoIIpr/Pp64X9qZCmw/m2xdKntt/1Osc9TnazQQyyXqiNtcWqTvyV8WA3xCr5zxB979YHKrHZdzT/lPVNA0kI/humaEnW0z59370CzRdq1HUZIOnqykHR3DjYlUeHKcTqSLZNNKoDx9AW92iijuIWNDFERPK7IduQJOcocQjCuhStLufou7P3iUtLulZXfnEJiUrW5CzrQO056VzYs6iDIJj2jSiZ66k58f3Sa2DnYfNye2u5mobNOODZpVEcmH9SHGxSmjmt3dycbqb2W6i12yn9IHPBG6Ypf0cPSAHVjRlmy+9dvyjI9hE/ki6xL551GZWF2gHDJnX2KpCvXz92pUPrKJo6jQWOQbbaJSL7WPrdsN4jCDYmtPu2dGN/Kgg1xtDmins2tJVzElWy9jK8UmnxI1jVHXW4G9x7AoPBYxzwYhuvQEQw3l+63oimFEIFtYaabckKg9rNVr7mv7NI+14S15pcEUYklWCu0zV+6YYYBQK1jjxPPtTtk9OD1A==
+    properties :
+     x : 9
+     y : 32
+     width : 130
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : LIB_Init
+    identifier : 0x24a4ede733e14b99
+    internal_properties : CAAAAAgAAACjQ4/XyWdUdriGyaz+joDgNioU1ClVeEQljwBf7kbxlznHjSMWSSyQEFeXZZhFO6vH0W9ce915/R1NBPXLl7OiNNqz7IdDDzF6o3k6ekW/3/1JkrJjqU3j3vEqVyLQOZ9DHOQj+xm6RnzRrDXCDx+Johkk/rC/C/GEOqjbiCVnRMvyLIOCZ6C6BPdYvlZX89jIR/5N9j5oGxjAEEpurO44vi6Xp4AKE3qeH6UqbDLwJ8ywksWrvvpMdYyWlSRbXfM97aee+PiUF9Pk32PEzqDIYMU3RrN1v05YLgIlyiqvOZZ8rXXygXb6pA+5RObprJs3RmmNVFlJf4u33bHWZRCU1Tj5AN//732YRkuB2ysl6lcCoWbZJlaDdICGIWYuFiafClpcEfoR5dMtMNwBb546No8XhHHDvitP9qe1m9yTImT/Qw0MVXF+9+EZCeghQUqM1OAox4yYQ753gYkFonU8zWcqeVKQP0SDt2fWCLMgFuCC8qwD/zg=
+    properties :
+     x : 9
+     y : 58
+     width : 130
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : ARBRE_GROUPE
+    identifier : 0x24a4ede733e24b99
+    internal_properties : CAAAAAgAAADf//3nQXj2Pypt8/qg1RnbumxBW+KqOk2J4iYGEoWf/3HN5pdziwSJVFet2aRVFSW9AMfWItjcLGYYn54ckcQlmp3kfixRTmiz+YfdkKVJ0OSBVZXDYcHvcQD/JspqQ30vYpJICsa2oEAskY4oETIM8Zoz7VK559iQWgb93XsJ2mbsFEPA9uKR6+kyjTBjGQyndxZ2XW8V02al49/4RMhutNXrdWmQMyCDuUDs6BtKoYoyqQpdyMrh8pnc1Cx3fLu/hNEVCmc1GbNDXfgY+61CreKlwR83N/a74gExcFq37LpfBbFq0uYGNtPgKWvtWZgyvbiyAnZ8GUKh3qM4Dm+3K/ULxd8E7XkRKMFBWoEwrbbz01hiS3AP9yC7ZukF4T5EhU57f4JAwOeih2EIoT7QDDgYTJsVypTkHkyqHIBvcT/RUX9gJoS63wre2Zz6SA3ouwU/UYBqatxwHce2NXLUI/ZLzu9X3gHVKn6kVTsBStz8Yd/gWIVFmpLHiTAL3WxKtE6H5khOiSFGTNil4EMzYVcVZR9FSUayLgn0fPhfpmlf8QRpn5d2S90ABi429+wk8qXW9LuWp1NVPpQJsUdrL6yVcqhfX5kzHm3SI8Sk4mSPfpXFOrLb7Oj538vgKKyxcob5hJAhlUxAtqn0JugKjIqTJ0QkL3ECYcf6hwxlBJUaX5yB8B5tpxhBJztGzIWS7O7n/bNm3UMjsCODUOCZHOqomvO3gRfaq7hr5fYWY2Ld6CjCBAFluNKQHLVsA5IpZYqHCabDGYyzv7eCaFIOwmNSVemrMfRrqJriK4KyUeAy7fqqynO6dZj2vgGl24vtjQ7HtobEy1zzvt5L7muAQu07DDpnhKWLd2WfyrQC0u8siubgIeyBYOah0+BuQrni9yfmnYP7eoQ/3FOrajLt81AJhnV973zlYKmTKO+Xlba65aC6yR8ZLc9crMov13TCd/M6pNH1DKl0+kPMv7vQVHphn5QWONkqkFpAfat5SdI8lhmGUjfgo8N2JXKnF4d8AeA1Jln/mr0KV16T6zaMV1yF6Tbl0y2l6pPavGNbuOszdorBcpsf7Ubc3XSPd88pPlQ2X9RPuV89bmxt61meBWdbD0ipQgT9E3ahfmd2Du755RlB18YG17BZ6VrNXFzbCuU0iAGuA82vY2F3A8p65lW02Vl0834ab3q0n8ioMc6ouaBJhSKqtUUEV7Rpx26X2241AWduIGLSgDqnZuhZ6LBqqdV/IcCn2awhWveEhBPTTLPIrDDv6+W3S9Fw66Ob6h/EYdSDYQpDmC0++nimoJm/oiTafgZbMQK9mCpSv7txYJZRvNO9wRFkPpX0Z+IAYLhNIvqMsANEsq8Ebye82y1Urb5/oOCiBdJ+gWWo6tzrnSGjyVa2Q192RxhA/NKQSAx47g1wD4QjonYjrBF0fhW5aKiXfJTg6SQxgR9EnfSxm66f0XB2nEuEGjNaEilJBb5lAqtLkPXBUNiRqg5S20m863eDxA==
+    properties :
+     x : 9
+     y : 90
+     width : 182
+     height : 159
+    type : 19
+    code_elements :
+     type_code : 25
+     p_codes :
+      -
+        type : 35
+        enabled : false
+      -
+        type : 19
+        enabled : false
+      -
+        type : 20
+        enabled : false
+      -
+        internal_properties : CAAAAAgAAADj1fohDd5m1l/sj6r8h+h5m+0crCgNQ5P3Krs4+FVP5wFkFuDriNm9eMMDRFBeNW7/Sjqw0DT+MHL5vNGMpFLwmU1whyFAVDQYWvYgAhYs9jd1RG82L8IzpARRaKNV6xDxUTPtrh/myowu34Q=
+        code : |1+
+         sNoeud est une chaine
+         sDescription est une chaine
+         
+         
+         // Récupération du noeud sélectionné
+         sNoeud = arbreselect(ARBRE_GROUPE)
+         
+         // Récupère l'identifiant de la branche
+         sDescription = ArbreRécupèreIdentifiant(ARBRE_GROUPE,sNoeud)
+         
+         // Mise à jour de la description
+         LIB_DESCRIPTION = sDescription
+         
+         
+        type : 33
+      -
+        type : 17
+        enabled : false
+  -
+    name : LIB_DESCRIPTION
+    identifier : 0x24a4ede733e34b99
+    internal_properties : CAAAAAgAAADWCPh8IauptoyCsK6msyx1hPnCJwh6MD/gDbimBm3ChiDgEor8uaOyruNEcsoqShriHgDy69IULQ8NvyFAf6wppmOaZk88HKayudC/W7TUezCQrZSGkIZvfRzozJvakNnml3gHW99K6EPrEqgObBAS358KHe3Rm253x5FuGMUY1Gp1n/KCEoLrSMWwIHVf80e87Sc9JlBDwvKTzhCrONbbHwZxXxLmBBe7fXQ7XL2ulq02yS9SxVR5vBsV2sBen4tZrARLqBjLKmkdMQV9P9he21DiJbdC9RjW5/QpDfGPDTKl7kZGjmBscmKM/4Q96/uXyyw8qEe4TKXHZQNRumF/Sr5N8chdobeBdGuyP5b9vSwRZCmDe1n2ycg6NrFMi8GwvrAWINB1RgYpkuK9BCu2iot4tWxHvWiHMpF137ZAVbz475RwZX/CZRC3C0uN/tq8j4jMG9gHGqN1lWiwGaqUpaUA/wbEGAlPU1WpzQ==
+    properties :
+     x : 194
+     y : 93
+     width : 138
+     height : 156
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : LIB_DateDernConnexion
+    identifier : 0x24a4ede733e44b99
+    internal_properties : CAAAAAgAAAAYVW6cCumWeGlXBom0zx6/HH6pNgNqNGy96gxyL2iXzQ0FQjqlELSbihfZoZxX/pqVFoOF9t/U5FIUq4/L92Cowsw5B4AGYf9BEopsgUasICPwClqepQlTrYjY7Cdu8JV2RWrtOZL6ZZROVjlmIuNXEVjsvrsllCUXjv1FnEEO4pZiQ/z3QZFHvqwtSmVPAx2UmkeA77OAZOh6vkiy5lxmc/vTeDDIlxAIBWjFNOkEPCA7oFmECyDvu1zFJch5k+gpJu2wgmLb7rZfjlbfvBeTJGPE0bD5AV1M+GNZCAvmSRwieSgeayn3BlUFxIMwfziybXIxTspvlPhZ+iLNfGERBb/LJafhjYUppQ98RlCs2nJ7u6+t2Mb4igTNleGVP3E9L5Z7Y6xfo5hvp+FpuPM99DlkijiCCOWhoBRUPzQd6hP3a0lrpb1ICpvhmqFViRIpjGv/9DA+1Km1dIwvFRIR8kTJ4X6vODDoub8S+netI5OyPRO44W+M0wbGdG1Jr0zf++WhNnn5CA==
+    properties :
+     x : 9
+     y : 255
+     width : 181
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : INT_ADMIN
+    identifier : 0x24a4ede733e54b99
+    internal_properties : CAAAAAgAAABTEiSkFeccZ2zn9oJOMexWA8AswRfYcSRnDH2nlgG4GDlpi2+MYOFVDwY60HfmbC1jSK6JMWbpeV7oP/2ssz1ddRTG3aacPFALlik3CZbXUH1aC5VeHV9QkuJ7ToawJyekEmqTIqQUChcArOUEYo/CuicsdK5CKVIrWRnVWlQrDlnxVF015ShvuVp0im5jZjrW4OF6vtaoZoNs06G16OH3DZkblCYccWkxISE5fBkRsm04l3RBepiIVYhZqUdBiU89QBHWeaUtx+af26u4+faZw13OyUXmUPbKAD7aXeaXuKVqeKbG//p+CQfCVBscR3IvTBZOiZKG4HWkYROERiETgxyGl61lKhgdMi84hmamH7U9rK9yaC/PjII+fqeRI9sHPuF8CfUtyH23InioR3FlKhJdG+EVrsc5gxEgf6nEcNYjYrlFQjGM3Ldz0xC8h/INfuJMuBLsZ3bU10EqPPFgkAd+GDICUysxN1QXqwD6QGJmhqE/2XMmuQ8yph5nJEoDO12h4jeCjgMBfC0xvzDpKGivXx9PZxhMhs7xT7B7pI91BJroO+1lrO0CVmzEkkJkXai6Pp6NG94BQiz3kqROU14OfGFhIMruD9xcne9Xbjdti70tQD0sDQhgBcA0t55kEvBjweSsyyfWTcEK9e+wuSck7DBtGFxw1ELScXA0Gpy4q4vFumxEygxr0ZJUVAXxSOlFzh9yqS01K7OQBuCIAAtdeYiI5fSr5QAEsgmC6kp92byB5B50AhudJtz+oNTUQxbee6Nz34GDOgGn3mfy9EeZwsP4WZ6OfF7PPHM7w+XgChZknL0UKzP2NtwZkQumbS4c6FG8cjV0bnr8wyQ12MCbb7qeH2qML85Ht55uAy/weZqjmGGLuLMeUl7WuRqKsW367iVlAKxyXl3N+q6B1JQBUqRFzQH5QrM20Tiby0qzldZZXf7Ib5wnvAjjmg1qiIQv/qralfeiD+oM4j9J6Li7BEz94uR/C5sLngIpWyZujd1UeSf0XKr5X1bBbFCTYCnVltTmJy0HVZoRoPY/Lclgtw1B+lPo4488Jb2TeSEsTpOMiAG5zNBUXRDU98prMRteOkD6qV6henxUFGjw9y35zlAmQx5jZkxFe/4uRJ3Qfgz0mgGY6DZpMejf
+    properties :
+     x : 9
+     y : 281
+     width : 326
+     height : 26
+    options :
+     -
+       internal_properties : CAAAAAgAAACsa40/E5VS8XPfnjeIhHrWBfzr7vxniBydQu+D8M+gjPSM7YPcA/PwFTuvNWeKjJu363m7NKu4Vd+7NM/pyMXbNecddaQ2eCUmxPdovIzn/hLL+xeRC/6zEnhBP7XXdqu4/aZYzHC9NkNTu/+EMyc8w9P4JXRSaNYHoNAMeJAjIA==
+    type : 5
+    controls : []
+    code_elements :
+     type_code : 5
+     p_codes : []
+  -
+    name : BTN_FERME
+    identifier : 0x24a4ede733e64b99
+    internal_properties : CAAAAAgAAACEHAVDZcYpfFkpwJND4RUT0HEFfdRFs6bjOHXo0TmK9w/ZyAB68D+Rnz7Kjb7ddynq8jjcP4sryTrt0LfA21L+y+OKiDGxm/HQlwsm+igSLZ4wsoXiQXf7Te2R2hE6uuCIWdBZhFgbbg0NXGUFqd8iwZH1HUO/cnFkrdOFOcdDthIHjCGNq5ffm0RtMW6Otjc7DYoeoZsXWWxFjStrKVTAP6pOjwfZmEzHmAJ5Kb75TGSEdd+4q27XV3Fp1yLjE2FXHRjEbh+NdG5CbHYs7eXMxNEQyf8XnwLWIE+G6spDCfBnk/E1U5TA9S1PDdUzqbSAXhElLT/nYVWCaovdIsMuSI6czo5Xtq/MjDiApgVCmaxdjG8YJMxBaDkiDaWiU4xs81rLB6bKfMlGKH6L5Sl9MiykkkcqSeJ+k0R2ED1aZO7u8Oj+Wtwz+EeUakFK7fTbljtRS4s7+8moM4GqfTlPJqPHsBH/fy7XLhkcJvTgZatyX9mp3Evtu9wI52fN6SbY4xFkRHqgB9/MMr+vXkB2e2+7avRYFmMmMu4yBIJK/OBftu7eo0/OPpVkLNl9HedHDUtdY1HcJ3cTxnNTHxagVejd+2u0WO2G1WibEZGmlU25p1yQYBUeSIWzVZ7uZ+DUi1n8RJ6UmfnYiSs32owzwg7sbUsG8CBBhRCmN65lpsGiAKzKTIjeJHNnhyxaBfjp8oLKySSNOL7UU4APW914KZvwAMIEHPOkFvS2b9AcGd6Qj2+VnCkk+JdYIKhC4ZEhLV1lvwWEpYmVTHVwKHu9XkNJW/zfXBqMG0kv+x/i3V7a1ZKxepITCaC0nFdhP++gL31ddrRCS9sMiJR8ugvturZPGXBMzdij6LIJUDBK1y/Jl3cFPkYvEvi8feK5BrkZMTS6Sv4LzRXMq0bw6nlOKGTYYGxMHsMmp0l/sr8+487NbMCdcd3v0+Jpvc9OP3GtayQszXatbA==
+    properties :
+     x : 255
+     y : 316
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+         ferme()
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : LIB_CN
+    identifier : 0x24a4ede733e74b99
+    internal_properties : CAAAAAgAAAD4BkP7bZZhew+urH3VD4XSRKRmBbOQX3hRN2QKtZGTHVdTbqZWVubSyx/xBkSVxzBy4jc4wBL5QwGUdBKufr18n1UJ+JiqU3s5P+yR225uwjdER+xcrRslzfRt7o1HnjRgjtcdpnOdZWG2eQ6/HaaQAjd/VF4nDFm4+nDO2PXwUQkQI/k1TlImUgV0RQKq9cW46WUhKCT624JacTLqJr62/kbW0XZ0A0j9RUqzFiB1zuD2XlIC/vOU8MQhPcVORiQgRI34zfx1jjETVpgCQzSrpBmuQO45LBuOFXy3ix3dptrvbNJ5xPSJoCqei5+4VsxJi77RRtPOBb7APE2vLM6ScGKJ3VsdED70b9gxwTRJJbKvUv8FyOioq88qdGGekoOoFh0GovLcBpbx35yvnmPbP72IBF0qeSevcMd1IFcI05dNeryHHmLzVTZXh1YptG8JgUK2dS33jhX5pkKEK3mGiYtWU9c=
+    properties :
+     x : 145
+     y : 6
+     width : 189
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : LIB_DISPLAYNAME
+    identifier : 0x24a4ede733e84b99
+    internal_properties : CAAAAAgAAADhdZlHFD99jCy1lNR1ryvmp1FeNPA+bxuoqe6Ez2rrgqedVtEeXujLfSiDD/WO+qQWEq56eni+qAXV3nboDsKpuwq1QQBQR4TJu7KX0lPy0GQEfSDf7kCNXreLIiCvNRtXwKh9SnYwQScaPBnZMLtLL+ZOE0ucqU56rPsh2FwDeB7YbyOtM3CnbMhZTqdHBm5QJ86j2d8ZShdBdZlTEgfCfl9qqR405/FA24UgwKMpkjkDFOKxQ/OEIJJ2Ycd54PIOjit9kCGewMIYIt4oqan9e87bwcvm1pa6pRx6y7v577zGB1CzginEq+5/eTDft7QlZClKVYgaNhN8ixCWleJUlDOKhskTXYdrVKis9ohKgZjaBzHDkeCV3gkftKaGDara7bGC7tWHeS0v8gabVTDJUBhjcrHv3QQ4JhtDUxKASiUaI4qINBEhp0i/7YraWx41LJxsFKIwzb21X/pkWtZl
+    properties :
+     x : 145
+     y : 32
+     width : 189
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : LIB_INITIALS
+    identifier : 0x24a4ede733e94b99
+    internal_properties : CAAAAAgAAAAyplSSD9BQ389I78deBDTJtEYJP6MbCqaz5FBCVZx3AEuxgmVgSGIngwqtVcN40gb6fsqu7CIIvKO7YLzG2Db/MzKdMbIKYTyXARThfHEeFmxkeYRxiMpNBK2VOH7Rfc0T7JTpuNyereGoHjMLXqNNF+7CB802q8qYJnmbEjJLUipkB8snJVq7TpaT9CUpjmDY1w5rIwlD+kmXj9tVWO8snqf+/dDO4X3SQWeOVkWhlAbQbw8WKlJbNScphiJOgRMTG04apWS5+7vZUZ/j1u7i4DtWHghVxe0vKn8/kuTG7J0X1hn0dSTXmNsKxnu0iPXmtYjTbl8RNWRNKlFR6hdpreTJB3p+wEYk1cdNVYF3jom7blokaCcAF7omjcFTcs/jdtD7BwjSIF5YsadCZgnSvf2+r4bGID9ZH3Ikcutxg76juiOxrzbEepsSIofVZisgF/eBAb1V8JDYcu8RjSU2
+    properties :
+     x : 145
+     y : 58
+     width : 189
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : LIB_LASTCONNEXION
+    identifier : 0x24a4ede733ea4b99
+    internal_properties : CAAAAAgAAAAEaL50IXK28W1qyVngEqZjPtjTuSVNePgJ7s4aVfyPPLOJ2tUYqDIPt7LpthaQwh6inhq2HLKAjOt7oMR+GF4/01r10ToS4fQXSXyBnHn+3kREGcwRCFL9nE3VcBYhlW0z1JyZsPSe1dGQtiNLVpMlH74Cf122E5qAxtljGqJDUmqMDzvPPSpTzi5LlJUxbkhw945zQxmr6rG3jzM9+BesPj9G7QgGMcUSyY/uxt1RnNqsswNSrmZ3GUOlAt66NWcnN1JOEZiNN++1LfuPIiJmJPeKklQZeTljBturjtAKgNFDit3ASegjLFdGoudADMmaYSx3+mMV0djJts3ddpv9IdA9W1biFMKIcVOZYZ27Eu23Yp4gLPtcK4aCCf3PttPn4kR/EwxWnCKU/RPu0q1WwflylozUko2/vSQKmN1TnZR59LnfkXSCxFVMGP1X5KW6qQH3n99zjnL6FA13N/MA
+    properties :
+     x : 194
+     y : 255
+     width : 141
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+ menu :
+  name : _Menu
+  identifier : 0x24a4ede733eb4b99
+  internal_properties : CAAAAAgAAADAfZ27Q+jJ/MBXHLGCb7PyE2Yqjvuo9mAX2ZN+LLuyQtzms1431znXR0sNCCeLESXZp1gqmo+m2mUhb2ELR2phZ8VOgUSyXddfQyxpxffipvH/iiFuFkCLgpjx1Ah9/9/ndeRpWb0s9Qcjy8oPtW3aMcRtuglgDe5Ch9/jnC/Drp19/hhf+qz96diLw5T0yWlzg33c/E8hhMwUBdSOV69/8iDQGLfTvLoTvV3YkiQ5Dce7dxB2gUx1AVvVTykQMm7G+0haIOV568KMGgPEJluRN2XjgQ11Tb8vVxt6P2g=
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAADSyqpr3K2RbhqR7617GojzO0Xz0Tz5zB9IdhYxvHviuqtrX3j6E8e46hVkvT6kDV+YVQyShqDOKaYXP01+8XpNLFa9jvztWd0aBUBN+N/SlKb2sYF2ATCJsa5QEEBl
+ actionbar : {}
+ code_elements :
+  internal_properties : CAAAAAgAAABlH+h+/pl7IBSJ9lYpgF2qV4jMQkPWJO9xOEtGNzvcaN2xr2JDYPkXWKRPi3S7a8/X7Eflp1tMxNdFKndoIKZz9ybmDBGKSmPyUjb9i1pjHY+JqbASexVwdkryC6s4dC2DCbDMLEZ7Awb4Tt12uUSUjP2KKXXRHGCE9xtJV8EOVpTYXt8pcfENIB8ixn28gmb7VuiTxkBjR7I6uCrRVRrYq9WeMviraF8qf/xNcaPImmTpjueSChSJR1fBL3+NRuvYKzRlyBlrn6cxDBrYbXB+4ap1MBX7491enjA54Zfx2MMi5+zlSw4280Odqp9FlIGh3M9EjdjaaKvbPvlDrvQhMNJK8fU6HxqF2nB9i6lggd7k9cAb/f3/+cgkgBPLgbA+spoEpLvB153YuSI=
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      procedure Fen_Propriété(gnLigne)
+   -
+     code : |1-
+      // Mise à jour des propriétés
+      MAJPropriétés()
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     type : 11
+   -
+     type : 12
+   -
+     type : 17
+   -
+     type : 13
+  procedures :
+   -
+     name : TransformeDate
+     internal_properties : CAAAAAgAAACI4D3xizdqF5aRnC4fcns0++adS7mllwUIOMxUt2Ou45JqRk79kmDYivhREqrT2z185ZfqbZ213PcqdnxMYjJY2y8oDXR5BX3ox0nhnxtv22QvNHLCtWYFnfJ9vfobv568GzzYKUz0L3d6dZZ/mc77YiAmy/VOVXp3JANLKOikkfAiVMi1wu9KIE0//Th8xTSQNVgF7DAmTA38QmAbhtChw3Iatm5r
+     procedure_id : 1487575353346182025
+     type_code : 14
+     code : |1-
+      // Syntaxe :
+      //[ <Résultat> = ] TransformeDate (<nCentaineNanoSecondes> est entier)
+      //
+      // Paramètres :
+      //	nCentaineNanoSecondes (entier) : Nombre de nanosecondes
+      // Valeur de retour :
+      // 	variant : Date formaté
+      
+      Procédure TransformeDate(LOCAL nCentaineNanoSecondes est un entier)
+      
+      nSecondes est un entier sur 8 octets
+      nNbJours est un entier
+      dhDateHeure est un dateheure
+      
+      // Transformation du nombre de centaines de nanosecondes en secondes
+      nSecondes = nCentaineNanoSecondes / puissance(10,7)
+      
+      // On récupère le nombre d'années depuis le 1601
+      dhDateHeure..annee = PartieEntière(nSecondes / (60*60*24*365.25))
+      
+      // On soustrait le nombre d'année rapportées en secondes au nombre de secondes totales et on calcule le nombre de jours
+      nSecondes -= dhDateHeure..annee * 60*60*24*365.25
+      nNbJours = nSecondes /(60*60*24)
+      
+      // On soustrait le nombre secondes des Jours et on calcule le nombre d'heure
+      nSecondes -= nNbJours * (60*60*24)
+      dhDateHeure..heure = nSecondes / 3600
+      
+      // On soustrait le nombre secondes des heures et on calcule le nombre de minutes
+      nSecondes -= dhDateHeure..heure * 3600
+      dhDateHeure..minute = nSecondes / 60
+      
+      // Mise à jour de la date au format dateheure
+      dhDateHeure..mois = 1
+      dhDateHeure..Année += 1601
+      dhDateHeure..jour = 1
+      dhDateHeure..jour += nNbJours
+      
+      
+      
+      renvoyer chaineconstruit(<§$0000§>,dateverschaine(dhDateHeure..PartieDate,<§$0001§>),heureverschaine(dhDateHeure..partieheure,<§$0002§>))
+     type : 458752
+   -
+     name : MAJPropriétés
+     internal_properties : CAAAAAgAAABQ4t+J19ltNv9N9DDezc5KilCPK8niu1DHfVD1yNwCyXjFQvuOK6Yti5VEiMCLGbDzN469I1NUU2ooNzA2utB0CuUOROm7oBEDPVuawatwzCJGwE1Gb1sJHs9CiX2ipHJ3VjyCZos80HOnHgen91f9dg1QKgSNf0nhDD75wLr1CUQTBF/J3HYFFX7Bkbupy7iJFM8RcX5cS2FErHAtdi+g049QjgMNVWaELwzl+qNvOlp6CkF93up+zJPWSqsTpBlcJPaUFMuJcqt1q/PajMwpPaaSbyWDdfcfsZT4xHVpWvEGrONFCux89pH5sY837Wz4O5o27xUw8D5MaTIWa0d7Tg7UrxhOIPwGGk71n1G/d4i/hyG3yYzX6zigsjcqn7ytHaC9dQ==
+     procedure_id : 1487575353346247561
+     type_code : 14
+     code : |1+
+      Procédure MAJPropriétés()
+      
+      sNoeud est une chaine // Noeud de l'arbre sélectionné dans la fenêtre principale
+      sChaineTemp est une chaine // Chaine qui contient l'identifiant de chaque feuille de l'arbre et donc la valeur de la propriété
+      sDomaine est une chaine // Nom du domaine parent
+      i est un entier = 1 // Compteur
+      sDescription est une chaine // Description du groupe
+      sNoeudGroupe est une chaine // Noeud de l'arbre des groupes
+      nCentaineNanoSecondes est un entier sur 8 octets // Nombre de centaine de nanosecondes écoulés entre le 1/01/1601 à 12 h 00 et l'heure de dernière connexion
+      
+      // Récupération du noeud sélectionné
+      sNoeud = arbreselect(FEN_Principale.ARBRE_Item)
+      
+      // On concatène le noeud trouvé avec le nom de l'utilisateur
+      sNoeud += tab + FEN_Principale.TABLE_ITEM.COL_Valeur[gnLigne]
+      
+      
+      // Récupération du common name
+      sChaineTemp  = ArbreRécupèreIdentifiant(FEN_Principale.ARBRE_Cache, sNoeud +tab+ <§$0003§>)
+      LIB_CN = extraitchaine(sChaineTemp, 2, tab)
+      
+      mafenetre..titre = chaineconstruit(mafenetre..titre,extraitchaine(sChaineTemp, 2, tab))
+      
+      
+      // Récupération du display name
+      sChaineTemp = ArbreRécupèreIdentifiant(FEN_Principale.ARBRE_Cache, sNoeud +tab+ <§$0004§>)
+      LIB_DISPLAYNAME = extraitchaine(sChaineTemp, 2, tab)
+      
+      // Récupération du login
+      sChaineTemp = ArbreRécupèreIdentifiant(FEN_Principale.ARBRE_Cache, sNoeud +tab+ <§$0005§>)
+      si sChaineTemp = "" ALORS
+      	LIB_INITIALS = <§$0006§>
+      sinon	
+      	LIB_INITIALS = extraitchaine(sChaineTemp, 2, tab)
+      fin
+      
+      // Récupération des groupes dont cet utilisateur fait partie
+      sChaineTemp = ArbreRécupèreIdentifiant(FEN_Principale.ARBRE_Cache, sNoeud +tab+ <§$0007§>)
+      sChaineTemp = extraitchaine(sChaineTemp, 2, tab)
+      
+      // Extraction du nom de domaine (Commence par la fin)
+      sDomaine = extraitchaine(sChaineTemp, 1, <§$0008§>, DepuisFin)
+      
+      tantque sDomaine <> "" et sDomaine <> eot
+      	
+      	// Mise à jour du noeud dans lequel il faut ajouter le groupe
+      	sNoeudGroupe += sDomaine[[ 4 a]]
+      	
+      	// Récupération de la description du groupe en question
+      	sDescription = extraitchaine(ArbreRécupèreIdentifiant(FEN_Principale.ARBRE_Cache, sNoeudGroupe + tab + <§$0009§>), 2)
+      	
+      	// Ajoute le groupe dans l'arbre
+      	arbreajoute(ARBRE_GROUPE, sNoeudGroupe, aDéfaut, aDéfaut, sDescription)
+      	
+      	// Ajoute le TAB à la fin du noeud
+      	sNoeudGroupe += tab
+      	
+      	// Passe au suivant
+      	i++
+      	sDomaine = extraitchaine(sChaineTemp, i, <§$0008§>, DepuisFin)
+      	
+      FIN
+      
+      // Déroule l'arbre
+      arbrederouletout(ARBRE_GROUPE)
+      arbreselectplus(ARBRE_GROUPE, ARBRE_GROUPE[1])
+      executetraitement(ARBRE_GROUPE, trtSélection)
+      
+      // Récupération de la date de dernière connexion
+      sChaineTemp = ArbreRécupèreIdentifiant(FEN_Principale.ARBRE_Cache, sNoeud +tab+ <§$000a§>)
+      
+      
+      // Récupération du nombre de centaine de nanosecondes écoulée depuis le 1 janvier 1601 à 12 h 00
+      nCentaineNanoSecondes = val(extraitchaine(sChaineTemp, 2))
+      si nCentaineNanoSecondes > 0 ALORS
+      	LIB_LASTCONNEXION = TransformeDate(nCentaineNanoSecondes) 	
+      sinon
+      	LIB_LASTCONNEXION = <§$000b§>
+      FIN
+      
+      
+      
+      // Récupération de la propriété Admin
+      sChaineTemp =  ArbreRécupèreIdentifiant(FEN_Principale.ARBRE_Cache, sNoeud +tab+ <§$000c§>)
+      INT_ADMIN = val(extraitchaine(sChaineTemp, 2))
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FenPropriété
+resources :
+ string_res :
+  identifier : 0x10d3218c002ba488
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      fr-FR : "Le %1 à %2 "
+     index : 0
+   -
+     text :
+      fr-FR : JJ/MM/AAAA
+     index : 1
+   -
+     text :
+      fr-FR : "HH:MM"
+     index : 2
+   -
+     text :
+      fr-FR : cn
+     index : 3
+   -
+     text :
+      fr-FR : Displayname
+     index : 4
+   -
+     text :
+      fr-FR : samaccountname
+     index : 5
+   -
+     text :
+      fr-FR : Propriété Inexistante
+     index : 6
+   -
+     text :
+      fr-FR : memberOf
+     index : 7
+   -
+     text :
+      fr-FR : ","
+     index : 8
+   -
+     text :
+      fr-FR : description
+     index : 9
+   -
+     text :
+      fr-FR : Lastlogon
+     index : 10
+   -
+     text :
+      fr-FR : Inconnu
+     index : 11
+   -
+     text :
+      fr-FR : AdminCount
+     index : 12
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
